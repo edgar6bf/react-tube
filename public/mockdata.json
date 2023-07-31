@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "oI4tc49X1V9JY8GNnmpQhT5Nsv4",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 542146,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q7ZxbUk7wNVnvj-N1oZKyr_CccY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HzOjwL7IP_o"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-10T09:00:02Z",
+        "channelId": "UC-qYkzKFdekoEniRu_FS3zg",
+        "title": "(MV)오마이걸(OH MY GIRL)_Dun Dun Dance",
+        "description": "ENG SUB)OH MY GIRL 8th Mini Album \"Dear OHMYGIRL\" has been released. #오마이걸​ #OHMYGIRL​ #던던댄스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HzOjwL7IP_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HzOjwL7IP_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HzOjwL7IP_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OH MY GIRL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-10T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cSu7wSsNAP4W6J6tabUnU8nFtTM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0l9LB_Noe2Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-10T09:20:31Z",
+        "channelId": "UC2dAS5opN0op-VkOcRBhoGg",
+        "title": "OH MY GIRL Dun Dun Dance Lyrics (오마이걸 던 던 댄스​​ 가사) [Color Coded Lyrics/Han/Rom/Eng]",
+        "description": "BY-LEMORING All Rights Administered By WM ENTERTAINMENT ☆Thank you for watching!☆ ♥ Sorry for any mistakes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0l9LB_Noe2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0l9LB_Noe2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0l9LB_Noe2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lemoring",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-10T09:20:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Iu8ejmGxOCnz6p1kvsDHlm_OeYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4_0Rt2eMhVk"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-28T09:20:44Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "OH MY GIRL(오마이걸) - Dun Dun Dance (Music Bank) | KBS WORLD TV 210528",
+        "description": "OH MY GIRL(오마이걸) - Dun Dun Dance (Music Bank) | KBS WORLD TV 210528 ▷ Subscribe KBS WORLD TV Official Pages ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4_0Rt2eMhVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4_0Rt2eMhVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4_0Rt2eMhVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-28T09:20:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X_HUPiDErtOI-7DQa_0s1YO5bhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iz_TSnDDInk"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-14T08:00:04Z",
+        "channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
+        "title": "[PLAY COLOR] 오마이걸(OH MY GIRL) - Dun Dun Dance",
+        "description": "음악의 색을 플레이하다, PLAY YOUR COLOR 오마이걸이 선보이는 롤리팝처럼 달달한 오렌지 빛 음악   오마이걸(OH MY GIRL) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iz_TSnDDInk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iz_TSnDDInk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iz_TSnDDInk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GENIE MUSIC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-14T08:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PhCxKNbubsCknE7sBYYzrkTY2cI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P3ln1nmbf3o"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-31T06:56:30Z",
+        "channelId": "UC4scK1OtvoEa95nmjdsPjYg",
+        "title": "오마이걸 (OH MY GIRL) Dun Dun Dance (던던댄스) 교차편집 (Stage Mix)",
+        "description": "오마이걸 #OHMYGIRL #Dun_Dun_Dance.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P3ln1nmbf3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P3ln1nmbf3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P3ln1nmbf3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SoulYeon솔연",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-31T06:56:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jW5XCbHGPcellLjqbqKZrlzu6y0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Gqqr43XZ2s"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-11T10:30:01Z",
+        "channelId": "UC-qYkzKFdekoEniRu_FS3zg",
+        "title": "오마이걸(OH MY GIRL) - Dun Dun Dance (Practice ver.)",
+        "description": "오마이걸(OH MY GIRL) - Dun Dun Dance (Practice ver.) #오마이걸​​ #OHMYGIRL​​ #던던댄스​ #DunDunDance​ :: ALBUM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Gqqr43XZ2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Gqqr43XZ2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Gqqr43XZ2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OH MY GIRL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-11T10:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d2TcIIHYMrp-612dHr7SAfdpCdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xvH0Bc6HUW4"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-25T10:31:49Z",
+        "channelId": "UCoRXPcv8XK5fAplLbk9PTww",
+        "title": "OH MY GIRL, Dun Dun Dance (오마이걸, Dun Dun Dance) [THE SHOW 210525]",
+        "description": "오마이걸, Dun Dun Dance #OH_MY_GIRL, #Dun_Dun_Dance 채널에 가입하여 혜택을 누려보세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xvH0Bc6HUW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xvH0Bc6HUW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xvH0Bc6HUW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THE K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-25T10:31:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cThRfbt62G3hbeRLzXI7_5llpTU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sVXLMaO41Ew"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-13T15:07:58Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "&#39;최초 공개&#39; &#39;오마이걸&#39;표 댄스 팝! &#39;Dun Dun Dance&#39; 무대",
+        "description": "M COUNTDOWN｜Ep.709 오마이걸 - 던 던 댄스 (OH MY GIRL - Dun Dun Dance) World No.1 Kpop Chart Show M COUNTDOWN ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sVXLMaO41Ew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sVXLMaO41Ew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sVXLMaO41Ew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-13T15:07:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1NsCeSuCqfk28ArtuAmm6AKyj34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qwakV2Yo9ig"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T09:03:06Z",
+        "channelId": "UCcMrSGpNrKbM-2Oyf80p6rw",
+        "title": "🎧오마이걸(OH MY GIRL) - Dun Dun Dance | 2023 아시아·태평양 마스터스 대회 개막 공연 | 전주MBC MUSIC",
+        "description": "오마이걸(OH MY GIRL) - Dun Dun Dance 2015년 4월 21일 데뷔하여 오늘까지 사랑받는 오마이걸만의 청순 몽환 콘셉트의 노래를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qwakV2Yo9ig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qwakV2Yo9ig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qwakV2Yo9ig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "전주MBC Original",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T09:03:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_O3gwCxV0t-LGy33ZCFmmSdjlBc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_9ksFvRecLU"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-11T11:29:39Z",
+        "channelId": "UCvt-TQ0eUE8tJiacpZ7Robg",
+        "title": "OH MY GIRL - Dun Dun Dance [Dance Practice Mirrored]",
+        "description": "OH MY GIRL - Dun Dun Dance [Dance Practice Mirrored] OH MY GIRL 8th Mini Album \"Dear OHMYGIRL\" has been released.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_9ksFvRecLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_9ksFvRecLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_9ksFvRecLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KPOP&TPOP MIRRORED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-11T11:29:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JgLjSJfUGnSpMp9njG_Jn4dvg94",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k_UdjBN2f38"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-16T10:01:38Z",
+        "channelId": "UC4scK1OtvoEa95nmjdsPjYg",
+        "title": "오마이걸 (OH MY GIRL) Dun Dun Dance (던던댄스) 교차편집 (Stage Mix)",
+        "description": "오마이걸 #OHMYGIRL #Dun_Dun_Dance.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k_UdjBN2f38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k_UdjBN2f38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k_UdjBN2f38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SoulYeon솔연",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-16T10:01:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1QhGOJHKlXttEJgrngJrL8VWirI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TzZ2TABHXoI"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-29T07:31:54Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "[쇼! 음악중심] 오마이걸 - 던 던 댄스 (OH MY GIRL - Dun Dun Dance), MBC 210529 방송",
+        "description": "More clips are available iMBC http://www.imbc.com/broad/tv/ent/musiccore/vod/index.html WAVVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TzZ2TABHXoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TzZ2TABHXoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TzZ2TABHXoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-29T07:31:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ukc-qXd-2fJaoOnejWzhu4BQyOQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WaOVV8cYahc"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-17T13:02:04Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "OH MY GIRL(오마이걸) - Dun Dun Dance (2021 KBS Song Festival) | KBS WORLD TV 211217",
+        "description": "OHMYGIRL #오마이걸 #オーマイガール [KBS Song Festival] featuring performances by the hottest K-Pop stars of this year ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WaOVV8cYahc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WaOVV8cYahc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WaOVV8cYahc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-17T13:02:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3xb3LVN9bkuyS44VxIe2skO4aGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Epyzwy6gI4"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-10T10:21:12Z",
+        "channelId": "UCdV79O72wNg4Trqsc_934TQ",
+        "title": "OH MY GIRL (오마이걸) – &#39;DUN DUN DANCE&#39; Lyrics [Color Coded_Han_Rom_Eng]",
+        "description": "By - Zaty Farhani Thanks for watching! Please LIKE and SHARE this video! Don't forget to SUBSCRIBE our channel. ALL RIGHTS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Epyzwy6gI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Epyzwy6gI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Epyzwy6gI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zaty Farhani",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-10T10:21:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qcp8ErByx5cOBcNuyaFIy-jWsOw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6rOe6XpAb2A"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-30T14:27:30Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "Dun Dun Dance - 오마이걸 [케이팝 슈퍼 라이브] | KBS 230430 방송",
+        "description": "Dun Dun Dance - 오마이걸.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6rOe6XpAb2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6rOe6XpAb2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6rOe6XpAb2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-30T14:27:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-7Bd2VW9fBMIt3WsZM0taDlBQo4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kNUWVpM8N58"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-05T09:00:19Z",
+        "channelId": "UCVyhgRCO6WREp3-3dL1-odQ",
+        "title": "[LIVE] 오마이걸 - 던 던 댄스 (OH MY GIRL - Dun Dun Dance) | 아지트",
+        "description": "아지트 #오마이걸 #OHMYGIRL #네이버나우 '아지트' 15회 오마이걸의 '던 던 댄스 (Dun Dun Dance)' 라이브! NOW. 바로가기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kNUWVpM8N58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kNUWVpM8N58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kNUWVpM8N58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "네이버 NOW.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-05T09:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e-deqqTMwMSqx3_qrcsaGL8tgF8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lStAvVYl0OE"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-04T14:00:17Z",
+        "channelId": "UCfR3kIK-mEKRIvP9lWeZf0Q",
+        "title": "OH MY GIRL 『Dun Dun Dance Japanese ver.』【CDTV ライブ！ライブ！】",
+        "description": "2021年10月4日放送「CDTV ライブ! ライブ!」 パフォーマンス映像 「Dun Dun Dance Japanese ver.」音源はこちら ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lStAvVYl0OE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lStAvVYl0OE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lStAvVYl0OE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OH MY GIRL JAPAN OFFICIAL YouTube Channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-04T14:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NuIDhf0Iwj2T3faJYIG79aOkpgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GEKbpjFKmkg"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-31T14:47:55Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "[2021 MBC 가요대제전] 오마이걸 - Dun Dun Dance (Disco Ver.), MBC 211231 방송",
+        "description": "More clips are available iMBC https://program.imbc.com/2021gayo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GEKbpjFKmkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GEKbpjFKmkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GEKbpjFKmkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-31T14:47:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l7VimxQn-JyHOSI4-zGhOcWxDlk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qlGD2twPv1Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-23T12:20:57Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "OH MY GIRL(오마이걸) - Dun Dun Dance @인기가요 inkigayo 20210523",
+        "description": "OH MY GIRL - Dun Dun Dance #SBSInkigayo_EP1094 오마이걸 - Dun Dun Dance #OHMYGIRL #DunDunDance SBS Inkigayo( ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qlGD2twPv1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qlGD2twPv1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qlGD2twPv1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-23T12:20:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bbko_GmDjlzYGfL5PULJilUoPJI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ghUjmkl1U8Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-07T13:47:05Z",
+        "channelId": "UCVXzBnzP5i5W-3snrxu8kfg",
+        "title": "[EVERGLOW] DUN DUN Dance Practice",
+        "description": "[EVERGLOW] DUN DUN Dance Practice [EVERGLOW SNS] FAN CAFE : http://cafe.daum.net/EVERGLOW Twitter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ghUjmkl1U8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ghUjmkl1U8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ghUjmkl1U8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EVERGLOW",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-07T13:47:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mgrsWkP0lgQGg41iFkBOesCHHVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "47QS_FQ2bc8"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-25T09:15:17Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "OH MY GIRL(오마이걸) - Dun Dun Dance (Music Bank First Half Special) | KBS WORLD TV 210625",
+        "description": "OH MY GIRL(오마이걸) - Dun Dun Dance (Music Bank First Half Special) | KBS WORLD TV 210625 #aespa, #STAYC, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/47QS_FQ2bc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/47QS_FQ2bc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/47QS_FQ2bc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-25T09:15:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0V1UChBG0rUBlin-5kMV6VCMWIo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1bvEV79F5yg"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-22T13:59:34Z",
+        "channelId": "UCKVyf32-BNDK7FjXpkqmOvQ",
+        "title": "OH MY GIRL (오마이걸) - Dun Dun Dance [MP3 Audio] [Dear OHMYGIRL]",
+        "description": "OH MY GIRL (오마이걸) - Dun Dun Dance [MP3 Audio] Mini Album: Dear OHMYGIRL Track List: 01. Dun Dun Dance 02. Dear you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1bvEV79F5yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1bvEV79F5yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1bvEV79F5yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bugs Music Channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-22T13:59:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H_KweHQEzuc6nzgyftWLE89u3Vg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QnZeaHREkeY"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-11T14:04:14Z",
+        "channelId": "UCD2FkA_HW3psafzUDZSYgjQ",
+        "title": "오마이걸 (OH MY GIRL) - &#39;던던댄스 (Dun Dun Dance)&#39; 안무연습 거울모드 dance practice mirrored",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QnZeaHREkeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QnZeaHREkeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QnZeaHREkeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "K-dance mirrored",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-11T14:04:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XKnK7rOGkzD6ANWUdddfRfodlYE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y9Wc5zinC48"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-14T09:19:23Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "OH MY GIRL(오마이걸) - Dun Dun Dance (Music Bank) | KBS WORLD TV 210514",
+        "description": "10 Million Viewer Video Celebrating 10 Million Subscribers ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y9Wc5zinC48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y9Wc5zinC48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y9Wc5zinC48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-14T09:19:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A0dMyZuPdiXHcJLDv9pDr8eOpxQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eLEjaeMlCXQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-18T10:29:13Z",
+        "channelId": "UCoRXPcv8XK5fAplLbk9PTww",
+        "title": "OH MY GIRL, Dun Dun Dance (오마이걸, Dun Dun Dance) [THE SHOW 210518]",
+        "description": "오마이걸, Dun Dun Dance #OH_MY_GIRL, #Dun_Dun_Dance 채널에 가입하여 혜택을 누려보세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eLEjaeMlCXQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eLEjaeMlCXQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eLEjaeMlCXQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THE K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-18T10:29:13Z"
+      }
+    }
+  ]
+}
