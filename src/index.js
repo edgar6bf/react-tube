@@ -21,9 +21,6 @@ const router = createBrowserRouter([
             { path: 'videos/watch/:videoId', element: <VideoDetail /> }
         ]
     },
-    {
-
-    }
 ])
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
