@@ -5,4 +5,5 @@
 - 비디오 상세
 - 관련 동영상
   
-![Uploading image.png…]()
+![image](https://github.com/edgar6bf/react-tube/assets/104609807/e4d01a0c-9657-490c-95c7-5747c841b8d6)
+
